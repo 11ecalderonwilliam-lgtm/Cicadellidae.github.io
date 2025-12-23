@@ -1,11 +1,12 @@
 body {
   margin: 0;
   font-family: "Trebuchet MS", Arial, sans-serif;
-  background-color: #d6d97a;
+background-color: #cfe3c2;
+
 }
 
 .hero {
-  background: #bdbb6b;
+  background: #7da87b;
   padding: 60px 20px;
   text-align: center;
 }
