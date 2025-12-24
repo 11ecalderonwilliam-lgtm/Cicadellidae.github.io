@@ -105,3 +105,24 @@ img {
 .tabla-subfamilias tr:nth-child(even) {
   background-color: #dfead7;
 }
+.tabla-especies {
+  width: 90%;
+  margin: 30px auto;
+  border-collapse: collapse;
+  background-color: #eef5e6;
+}
+
+.tabla-especies th {
+  background-color: #7da87b;
+  border: 2px solid #000;
+  padding: 10px;
+}
+
+.tabla-especies td {
+  border: 2px solid #000;
+  padding: 8px;
+}
+
+.tabla-especies tr:nth-child(even) {
+  background-color: #dfead7;
+}
