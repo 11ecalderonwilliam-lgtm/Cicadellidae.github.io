@@ -126,3 +126,13 @@ img {
 .tabla-especies tr:nth-child(even) {
   background-color: #dfead7;
 }
+.descripcion-subfamilia {
+  max-width: 900px;
+  margin: 15px auto 30px auto;
+  background: #eef5e6;
+  padding: 18px 25px;
+  border-left: 6px solid #7da87b;
+  border-radius: 12px;
+  font-size: 16px;
+  line-height: 1.6;
+}
