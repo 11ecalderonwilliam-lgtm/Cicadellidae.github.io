@@ -83,3 +83,25 @@ img {
   margin: 20px 0;
 }
 
+.tabla-subfamilias {
+  width: 90%;
+  margin: 30px auto;
+  border-collapse: collapse;
+  background-color: #eef5e6;
+}
+
+.tabla-subfamilias th {
+  background-color: #7da87b;
+  color: black;
+  padding: 10px;
+  border: 2px solid #000;
+}
+
+.tabla-subfamilias td {
+  padding: 10px;
+  border: 2px solid #000;
+}
+
+.tabla-subfamilias tr:nth-child(even) {
+  background-color: #dfead7;
+}
